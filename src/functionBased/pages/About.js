@@ -37,7 +37,7 @@ const About = () => {
       <Routes>
         <Route path=":slug" element={<SinglePage />} />
       </Routes>
-      <div>Hello from About page</div>
+      <div>Hello from About page, testing updates</div>
     </>
     // <div>
     //   <ul>
